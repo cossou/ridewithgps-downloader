@@ -1,5 +1,5 @@
 /**
- * Background service worker for the RideWithGPS GPX Converter extension
+ * Background service worker for the RideWithGPS GPX Downloader extension
  */
 
 // Import the converter module

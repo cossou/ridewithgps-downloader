@@ -1,4 +1,4 @@
-# RideWithGPS GPX Converter
+# RideWithGPS GPX Downloader
 
 A Chrome extension that converts RideWithGPS routes to GPX format for use with GPS devices and other applications.
 

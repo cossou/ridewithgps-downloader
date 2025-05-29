@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "RideWithGPS GPX Converter",
+  "name": "RideWithGPS GPX Downloader",
   "version": "1.0",
   "description": "Converts RideWithGPS route JSON to GPX file format",
   "permissions": [
@@ -25,8 +25,12 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://ridewithgps.com/routes/*"],
-      "js": ["content.js"]
+      "matches": [
+        "https://ridewithgps.com/routes/*"
+      ],
+      "js": [
+        "content.js"
+      ]
     }
   ],
   "icons": {

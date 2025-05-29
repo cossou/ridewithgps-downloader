@@ -22,7 +22,7 @@ class RideWithGPSConverter {
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
      version="1.1" 
-     creator="RideWithGPS GPX Converter Extension">
+     creator="RideWithGPS GPX Downloader Extension">
   <metadata>
     <name>${this.escapeXml(routeName)}</name>
     <desc>${this.escapeXml(jsonData.description || '')}</desc>

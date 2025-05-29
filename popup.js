@@ -1,5 +1,5 @@
 /**
- * Popup script for the RideWithGPS GPX Converter extension
+ * Popup script for the RideWithGPS GPX Downloader extension
  */
 document.addEventListener('DOMContentLoaded', () => {
   const downloadBtn = document.getElementById('downloadBtn');
