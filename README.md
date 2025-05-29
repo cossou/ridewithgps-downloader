@@ -2,6 +2,8 @@
 
 A Chrome extension that converts RideWithGPS routes to GPX format for use with GPS devices and other applications.
 
+<img width="432" alt="Screenshot 2025-05-29 at 22 10 44" src="https://github.com/user-attachments/assets/f8dbdf13-964a-47ad-b243-679a76a1a4e4" />
+
 ## Features
 
 - Automatically detects RideWithGPS route pages
